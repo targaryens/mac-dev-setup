@@ -30,7 +30,7 @@ First thing you need to do, on any OS actually, is update the system! For that: 
 
 ## System preferences
 
-If this is a new computer, there are a couple of tweaks I like to make to the System Preferences. Feel free to follow these, or to ignore them, depending on your personal preferences.
+If this is a new computer, there are a couple of tweaks I like to make to the System Preferences and Finder. Feel free to follow these, or to ignore them, depending on your personal preferences.
 
 In **Apple Icon > System Preferences**:
 
@@ -38,6 +38,14 @@ In **Apple Icon > System Preferences**:
 - Keyboard > Key Repeat > Fast (all the way to the right)
 - Keyboard > Delay Until Repeat > Short (all the way to the right)
 - Dock > Automatically hide and show the Dock
+
+In **Finder > System Preferences**:
+
+- Preferences > General > Show Hard disks, External disks
+- Preferences > General > New Finder windows show > Your home directory
+- Preferences > Advanced > Show all filename extensions
+- View > Show Status Bar 
+- View > Show Path Bar 
 
 ## Security
 
@@ -847,8 +855,8 @@ This really depends on how you want to organize your files, but I like to put al
 
 Here is a quick list of some apps I use, and that you might find useful as well:
 
-- [1Password](https://1password.com/): Securely store your login and passwords, and access them from all your devices. **($3/month)**
+- [LastPass](https://www.lastpass.com): Securely store your login and passwords, and access them from all your devices.
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. It is cross-platform, but if all your devices are Apple you may prefer [iCloud Drive](https://support.apple.com/en-ca/HT206985). **(Free for 2GB)**
 - [Postman](https://www.getpostman.com/): Easily make HTTP requests. Useful to test your REST APIs. **(Free for basic features)**
 - [GitHub Desktop](https://desktop.github.com/): I do everything through the `git` command-line tool, but I like to use GitHub Desktop just to review the diff of my changes. **(Free)**
-- [Spectacle](https://www.spectacleapp.com/): Move and resize windows with keyboard shortcuts. **(Free)**
+- [Rectangle](https://rectangleapp.com): Move and resize windows with keyboard shortcuts. **(Free)**
